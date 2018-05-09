@@ -1363,9 +1363,9 @@ namespace TimeAgo {
 					HourAgo =    "{0} giờ trước",
 					HoursAgo =   "{0} giờ trước",
 					DayAgo =     "{0} ngày trước",
-					DaysAgo =    "{0} ngày cách đây",
-					MonthAgo =   "{0} tháng trước",
-					MonthsAgo =  "{0} vài tháng trước",
+					DaysAgo =    "{0} ngày trước",
+                    MonthAgo =   "{0} tháng trước",
+					MonthsAgo =  "{0} tháng trước",
 					YearAgo =    "{0} năm trước",
 					YearsAgo =   "{0} năm trước",
 				});
