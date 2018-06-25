@@ -1357,7 +1357,7 @@ namespace TimeAgo {
 			get {
 				return vietnamese ?? (vietnamese = new DateTimeFormatStrings {
 					SecondAgo =  "{0} giây trước",
-					SecondsAgo = "{0} giây",
+					SecondsAgo = "{0} giây trước",
 					MinuteAgo =  "{0} phút trước",
 					MinutesAgo = "{0} phút trước",
 					HourAgo =    "{0} giờ trước",
